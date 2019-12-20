@@ -1,8 +1,8 @@
-http://10.1.0.180:8080/login-success/singpass  SingPass account
+﻿http://10.1.0.180:8080/login-success/singpass  SingPass account
 http://10.1.0.180:8080/login-success/corppass  CorpPass account
 http://10.1.0.180:8080/marinet/dashboard  Marrinet account
 https://buildityourself.atlassian.net/projects/TMSW/issues/ jira
-https://buildityourself.atlassian.net/projects/TMSW/issues/ jira
+https://buildityourself.atlassian.net/projects/TMSW/issues/ jira jhvfudfh
 vaduc@tma.com.vn
 pass:12345678x@X
 https://gitlab.tma.com.vn/ncs/msw/issues gitlab
