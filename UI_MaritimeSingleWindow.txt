@@ -1,0 +1,26 @@
+http://10.1.0.180:8080/login-success/singpass  SingPass account
+http://10.1.0.180:8080/login-success/corppass  CorpPass account
+http://10.1.0.180:8080/marinet/dashboard  Marrinet account
+https://buildityourself.atlassian.net/projects/TMSW/issues/ jira
+vaduc@tma.com.vn
+pass:12345678x@X
+https://gitlab.tma.com.vn/ncs/msw/issues gitlab
+report
+5h chieu
+<Name> <Date>
+•	Total TCs/Defects:
+•	Executed: No of executed TCs .
+•	Passed: No of passed  TCs .
+•	Failed: No of failed TCs.
+•	NYT:
+9h30
+A.           Yesterday
+• List of task_id
+B.            Today
+• List of task_id      
+C.            Issues/Concerns:
+• Issues/stuck
+
+/crew-sign-on
+//crew-sign-off
+issuetype = Bug AND status = "TMA Testing" and issuekey > TMSW-1900 ORDER BY status DESC, updated DESC
